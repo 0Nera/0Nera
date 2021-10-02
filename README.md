@@ -14,7 +14,7 @@ Also I am creating [SynapseOS](https://github.com/Synapse-OS "Operating system i
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[trophy](https://github-profile-trophy.vercel.app/?username=0Nera&theme=radical&margin-w=40&margin-h=40)]
+<img src="https://github-profile-trophy.vercel.app/?username=0Nera&theme=radical&margin-w=40&margin-h=40" />  
 
 
 <p align="center">
@@ -40,7 +40,7 @@ Also I am creating [SynapseOS](https://github.com/Synapse-OS "Operating system i
   <h2 align="center">Мои трофеи в Github</h2>
 </p>
 
-[trophy](https://github-profile-trophy.vercel.app/?username=0Nera&theme=radical&margin-w=40&margin-h=40)
+<img src="https://github-profile-trophy.vercel.app/?username=0Nera&theme=radical&margin-w=40&margin-h=40" />  
 
 
 <p align="center">
