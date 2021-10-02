@@ -23,7 +23,7 @@ Also I am creating [SynapseOS](https://github.com/Synapse-OS "Operating system i
 
 |My github statistics|Most used languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=0Nera&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Nera&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![0Nera](https://github-readme-streak-stats.herokuapp.com/?user=0Nera&theme=dark)
+|<img src="https://github-readme-stats.vercel.app/api?username=0Nera&show_icons=true&theme=dark&hide_title=true" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Nera&show_icons=true&theme=dark&hide_title=true" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=0Nera&theme=dark" />
 
 ***
 
@@ -49,4 +49,5 @@ Also I am creating [SynapseOS](https://github.com/Synapse-OS "Operating system i
 
 |Общая статистика|Самые используемые языки программирования|Другая статистика|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=0Nera&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Nera&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![0Nera](https://github-readme-streak-stats.herokuapp.com/?user=0Nera&theme=dark)
+|<img src="https://github-readme-stats.vercel.app/api?username=0Nera&show_icons=true&theme=dark&hide_title=true" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Nera&show_icons=true&theme=dark&hide_title=true" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=0Nera&theme=dark" />
+
