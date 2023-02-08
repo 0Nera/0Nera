@@ -1,6 +1,6 @@
 # English version:
 ### Hello, World!
-I am a C/Go/Python/GML programmer. 
+I am a C/Python programmer. 
 
 Also I am creating [SynapseOS](https://github.com/0nera/SynapseOS "Operating system in C language")
 
@@ -8,7 +8,7 @@ Also I am creating [SynapseOS](https://github.com/0nera/SynapseOS "Operating sys
 
 # Русская версия:
 ### Привет, Мир!
-Я  C/Go/Python/GM программист. 
+Я  C/Python программист. 
 
 Также я пишу [SynapseOS](https://github.com/0nera/SynapseOS "Модульную Операционную систему на языке Си")
 
