@@ -1,31 +1,31 @@
-# English version:
-### Hello, World!
-I am a C/Python programmer. 
+# Обо мне. About me
 
-Also I am creating [SynapseOS](https://github.com/0nera/SynapseOS "Operating system in C language")
+## English version
 
-***
+- [X] Software engineer
+- [X] Optimization of embedded systems
+- [X] Support of pilot and serial production Participation in product testing
 
-# Русская версия:
-### Привет, Мир!
-Я  C/Python программист. 
+C, C++, Python, GML
 
-Также я пишу [SynapseOS](https://github.com/0nera/SynapseOS "Модульную Операционную систему на языке Си")
+Also I am creating [SynapseOS](https://github.com/0nera/SynapseOS "Microkernel operating system in C language")
 
-<p>Visits counter</p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{0Nera}/count.svg" /></p> 
+## Русская версия
 
-<p align="center">
-  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">My Github Profile Trophy</h2>
-</p>
+- [X] Оптимизация встраиваемых систем
+- [X] Сопровождение опытного и серийного производства
+- [X] Участие в испытаниях изделий
 
-<img src="https://github-profile-trophy.vercel.app/?username=0Nera&theme=radical&margin-w=40&margin-h=40" />  
+C, C++, Python, GML
 
+Также я пишу [SynapseOS](https://github.com/0nera/SynapseOS "Микроядерную Операционную систему на языке Си")
 
-<p align="center">
- <h2 align="center">My Github Stats</h2>
+Visits counter. Счетчик просмотров
 
-|My github statistics|Most used languages|Streaks|
+![Статистика](https://profile-counter.glitch.me/{0Nera}/count.svg)
+
+|Статистика|Используеме языки|Активность|
 |-|-|-|
-|<img src="https://github-readme-stats.vercel.app/api?username=0Nera&show_icons=true&theme=dark&hide_title=true" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Nera&show_icons=true&theme=dark&hide_title=true" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=0Nera&theme=dark" />
+| ![Статистика](https://github-readme-stats.vercel.app/api?username=0Nera&show_icons=true&theme=dark&hide_title=true) | ![Используеме языки](https://github-readme-stats.vercel.app/api/top-langs/?username=0Nera&show_icons=true&theme=dark&hide_title=true) | ![Активность](https://github-readme-streak-stats.herokuapp.com/?user=0Nera&theme=dark) |
+
+![Трофеи](https://github-profile-trophy.vercel.app/?username=0Nera&theme=radical&margin-w=40&margin-h=40)
