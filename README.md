@@ -1,16 +1,4 @@
-# Обо мне. About me
-
-## English version
-
-- [X] Software engineer
-- [X] Optimization of embedded systems
-- [X] Support of pilot and serial production Participation in product testing
-
-C, C++, Python, GML
-
-Also I am creating [SynapseOS](https://github.com/0nera/SynapseOS "Microkernel operating system in C language")
-
-## Русская версия
+# Обо мне.
 
 - [X] Оптимизация встраиваемых систем
 - [X] Сопровождение опытного и серийного производства
@@ -20,7 +8,7 @@ C, C++, Python, GML
 
 Также я пишу [SynapseOS](https://github.com/0nera/SynapseOS "Микроядерную Операционную систему на языке Си")
 
-Visits counter. Счетчик просмотров
+Счетчик просмотров
 
 ![Статистика](https://profile-counter.glitch.me/{0Nera}/count.svg)
 
