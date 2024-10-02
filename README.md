@@ -17,3 +17,7 @@ C, C++, Python, GML
 | ![Статистика](https://github-readme-stats.vercel.app/api?username=0Nera&show_icons=true&theme=dark&hide_title=true) | ![Используеме языки](https://github-readme-stats.vercel.app/api/top-langs/?username=0Nera&show_icons=true&theme=dark&hide_title=true) | ![Активность](https://github-readme-streak-stats.herokuapp.com/?user=0Nera&theme=dark) |
 
 ![Трофеи](https://github-profile-trophy.vercel.app/?username=0Nera&theme=radical&margin-w=40&margin-h=40)
+
+
+<!--START_SECTION:productive-box-in-readme-->
+<!--END_SECTION:productive-box-in-readme-->
